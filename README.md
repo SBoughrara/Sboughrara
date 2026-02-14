@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Seif%20Boughrara&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
+
 # Hi there, I'm Seif Boughrara 👋
 
 ## 🚀 About Me
@@ -81,5 +83,5 @@ I'm a passionate developer currently pursuing a **Master's degree in Artificial 
 💬 Feel free to reach out if you want to collaborate on projects or just chat about technology, AI, or development!
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/SBoughrara">Seif Boughrara</a></i>
+  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Seif Boughrara</a></i>
 </div>
