@@ -52,9 +52,17 @@ I'm a passionate developer currently pursuing a **Master's degree in Artificial 
 
 ## 📊 GitHub Stats
 
-![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBoughrara&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SBoughrara&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SBoughrara&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBoughrara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBoughrara&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Connect with Me
 
@@ -73,5 +81,5 @@ I'm a passionate developer currently pursuing a **Master's degree in Artificial 
 💬 Feel free to reach out if you want to collaborate on projects or just chat about technology, AI, or development!
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Seif Boughrara</a></i>
+  <i>⭐️ From <a href="https://github.com/SBoughrara">Seif Boughrara</a></i>
 </div>
